@@ -2,7 +2,7 @@
 
 ## Overview
 
-This draft lottery system provides a **completely fair and randomized** method for determining fantasy football draft order. Unlike traditional systems that favor teams with poor previous season records, this lottery gives **every team equal odds** for every draft position, ensuring maximum fairness and excitement.
+This draft lottery system provides a **completely fair and randomized** method for determining fantasy football draft order. Unlike traditional systems that favor teams with poor previous season records, this lottery gives **every team equal odds** for every draft position, ensuring maximum fairness and excitement. This draft lottery process is based on the NBA Draft Lottery Process, conducted by EY.
 
 ## How the Draft Lottery Works
 
